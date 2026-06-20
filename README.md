@@ -24,12 +24,13 @@ Feel free to connect for collaboration or opportunities 🚀
 
 ⭐ If you like this project, feel free to star the repository!
 
-📸 Screenshots
-🏠 Home Section
-Home[home.png]
+## 📸 Screenshots
 
-👩‍💻 About Section
-About[about.png]
+### 🏠 Home Section
+![Home](home.png)
 
-📞 Contact Section
-Contact[contact.png]
+### 👩‍💻 About Section
+![About](about.png)
+
+### 📞 Contact Section
+![Contact](contact.png)
