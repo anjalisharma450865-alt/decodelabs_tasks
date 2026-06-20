@@ -26,10 +26,10 @@ Feel free to connect for collaboration or opportunities 🚀
 
 📸 Screenshots
 🏠 Home Section
-Home
+Home[home.png]
 
 👩‍💻 About Section
-About
+About[about.png]
 
 📞 Contact Section
-Contact
+Contact[contact.png]
