@@ -29,3 +29,10 @@ Open index.html in browser
 - POST /api/users  
 - PUT /api/users/:id  
 - DELETE /api/users/:id  
+## 📸 Screenshots
+
+### UI
+![UI](images/ui.png)
+
+### Database
+![Database](images/database.png)
