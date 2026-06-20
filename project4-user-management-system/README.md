@@ -34,7 +34,7 @@ Open index.html in browser
 ## 📸 Screenshots
 
 ### 🖥️ UI
-![UI](images/ui.png)
+![UI](ui.png)
 
 ### 🗄️ Database
-![Database](images/database.png)
+![Database](database.png)
