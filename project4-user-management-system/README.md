@@ -31,8 +31,10 @@ Open index.html in browser
 - DELETE /api/users/:id  
 ## 📸 Screenshots
 
-### UI
+## 📸 Screenshots
+
+### 🖥️ UI
 ![UI](images/ui.png)
 
-### Database
+### 🗄️ Database
 ![Database](images/database.png)
